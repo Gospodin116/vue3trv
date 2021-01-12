@@ -10,6 +10,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1mxlBoZIJRiZHyR1Y1ijSFuJT0t" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610442990527</updated>
       <workItem from="1610442991799" duration="822000" />
-      <workItem from="1610453957873" duration="1401000" />
+      <workItem from="1610453957873" duration="2668000" />
     </task>
     <servers />
   </component>
